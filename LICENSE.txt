@@ -1,0 +1,12 @@
+ORBSLAMM is built on top of ORB-SLAM2. Both are released under a GPLv3 license (see License-gpl.txt).
+Please see Dependencies.md for a list of all included code and library dependencies which are not property of the authors of ORBSLAMM or those of ORB-SLAM2.
+
+For a closed-source version of ORBSLAMM for commercial purposes, please contact the authors.
+
+If you use ORBSLAMM in an academic work, please cite the publications by visiting:
+https://github.com/hdaoud/ORBSLAMM and https://github.com/raulmur/ORB_SLAM2/
+
+
+
+
+
