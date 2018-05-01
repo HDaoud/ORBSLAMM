@@ -45,16 +45,15 @@ For a closed-source version of ORBSLAMM for commercial purposes, please contact 
 
 If you use ORBSLAMM in an academic work, please cite:
 
-    @article{daoud2018,
-      title={{SLAMM}: Visual Monocular {SLAM} with continuous mapping using Multiple Maps,
-      author={Daoud, Hayyan A, Sabri, Aznul Q M, Loo, C K and Mansoor, Ali M.},
-      journal={PLoS ONE},
-      volume={xx},
-      number={xx},
-      pages={xxxx--xxxx},
-      doi = {10.1371/journal.pone.0195878},
-      year={2018}
-     }
+    @article{daoud2018slamm,
+    title={SLAMM: Visual monocular SLAM with continuous mapping using multiple maps.},
+    author={Daoud, HA and Md, Sabri AQ and Loo, CK and Mansoor, AM},
+    journal={PloS one},
+    volume={13},
+    number={4},
+    pages={e0195878},
+    year={2018}
+    }
 
 # 2. Prerequisites
 Compiling ORBSLAMM is similar to [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2). Below are the steps mentioned in the [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) GitHub repository.
