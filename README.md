@@ -31,7 +31,7 @@ alt="TUM RGBD Dataset - Wrong Init" width="240" height="180" border="10" /></a>
 
 ### Related Publications:
 
-[1] Hayyan Afeef Daoud, Aznul Qalid Md Sabri, Chu Kiong Loo and Ali Mohammed Mansoor (2018) **SLAMM: Visual Monocular SLAM with continuous mapping using Multiple Maps**. *PLoS ONE xx(xx): exxxxxxx* https://doi.org/10.1371/journal.pone.0195878.
+[1] Daoud, Hayyan Afeef, Aznul Qalid Md Sabri, Chu Kiong Loo, and Ali Mohammed Mansoor. **"SLAMM: Visual monocular SLAM with continuous mapping using multiple maps."** PloS one 13, no. 4 (2018): e0195878. https://doi.org/10.1371/journal.pone.0195878.
 
 [2] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. **ORB-SLAM: A Versatile and Accurate Monocular SLAM System**. *IEEE Transactions on Robotics,* vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics **Best Paper Award**). **[PDF](http://webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf)**.
 
